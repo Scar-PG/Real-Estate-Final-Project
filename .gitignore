@@ -1,0 +1,5 @@
+﻿Real-estate-project-frontend/node_modules/
+Real-estate-project-backend/.venv/
+**/__pycache__/
+**/.env
+**/.DS_Store
