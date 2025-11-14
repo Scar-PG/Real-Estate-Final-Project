@@ -203,6 +203,7 @@ Figure 1 — Homepage (React UI)
 ![Home Page](https://github.com/Scar-PG/Real-Estate-Final-Project/blob/72cf30feb92bd915bb2558cb41d8184384edad9a/Screenshot%202025-11-14%20134448.png)
 
 Figure 2 — Prediction Form Interface
+![prediction] (https://github.com/Scar-PG/Real-Estate-Final-Project/blob/97f9e8182f31953af59d70171c37a0dde9ccd7c5/Screenshot%202025-11-14%20135318.png)
 
 Figure 3 — Login/Profile Page
 
