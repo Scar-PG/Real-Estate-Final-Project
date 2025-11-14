@@ -206,6 +206,7 @@ Figure 2 — Prediction Form Interface
 ![prediction](https://github.com/Scar-PG/Real-Estate-Final-Project/blob/97f9e8182f31953af59d70171c37a0dde9ccd7c5/Screenshot%202025-11-14%20135318.png)
 
 Figure 3 — Login/Profile Page
+![login](https://github.com/Scar-PG/Real-Estate-Final-Project/blob/76e088a98e98c85a036095b6b9cc53e1b530a442/Screenshot%202025-11-14%20143836.png)
 
 🤖 Model Details
 
