@@ -200,7 +200,7 @@ Response:
 
 
 Figure 1 — Homepage (React UI)
-![Home Page]()
+![Home Page](https://github.com/Scar-PG/Real-Estate-Final-Project/blob/72cf30feb92bd915bb2558cb41d8184384edad9a/Screenshot%202025-11-14%20134448.png)
 
 Figure 2 — Prediction Form Interface
 
